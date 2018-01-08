@@ -167,7 +167,8 @@ nav ul li a:hover {
 }
 
 .discord-member {
-	float: left;
+	margin-left: 3em;
+	margin-right:3em;
 }
 
 .announce {
