@@ -26,7 +26,7 @@
 		<div class="main">
 			<?ph
 				include announcementsFile.html
-			<?p
+			p?>
 		</div>
 </body>
 </html>
