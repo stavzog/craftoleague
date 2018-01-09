@@ -94,7 +94,8 @@ nav ul li a:hover {
 	padding: 10px;
 	width: 15%;
 	border-radius: 15px;
-	overflow: hidden
+	overflow: hidden;
+	margin: 0 auto
 }
 
 .discord-img {
